@@ -6,6 +6,8 @@ Streamlit app created for the Online Payment Fraud Detection Machine Learning Cl
 ## App
 [Online Payment Fraud ML App](https://urban-broccoli-opf-ds4hkcnyodocxxsqslo5xn.streamlit.app/)
 
+## Machine Learning Project
+[Online Payment Fraud Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main/OnlinePaymentFraud)
 
 ## Tools
 - Python, Pandas, Joblib, Streamlit, Scikit-Learn
